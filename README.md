@@ -1,7 +1,5 @@
 # CSPB-2270-FINAL-PROJECT
-Certainly! Here's a streamlined version of the README file for your interactive radix sort visualization tool project, excluding demonstration details:
 
----
 
 ## Interactive Radix Sort Visualization Tool
 
